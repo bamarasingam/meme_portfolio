@@ -1,1 +1,3 @@
-# meme_portfolio
+# Riskfolio-lib
+
+Exploring the Riskfolio library
