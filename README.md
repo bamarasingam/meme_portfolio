@@ -1,3 +1,4 @@
 # Riskfolio-lib
 
-Exploring the Riskfolio library
+Exploring Riskfolio library
+- https://riskfolio-lib.readthedocs.io/en/latest/index.html
